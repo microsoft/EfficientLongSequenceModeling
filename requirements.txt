@@ -1,0 +1,5 @@
+pyarrow
+sacremoses
+sacrebleu==1.5.0
+einops==0.4.1
+opt_einsum==3.3.0
