@@ -1,7 +1,7 @@
 # SPADE: State Space Augmented Transformer
 
 This PyTorch package implements the language modeling experiments in [Efficient Long Sequence Modeling via State Space Augmented Transformer
-](https://arxiv.org/abs/2212.08136).
+](https://arxiv.org/abs/2212.08136). For Hugging Face Transformers-style implementation for fine-tuning experiments, refer to [this repo](https://github.com/namisan/mt-dnn/tree/msrt5/msrlongt5).
 
 
 ## Dependencies
